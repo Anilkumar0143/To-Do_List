@@ -1,0 +1,41 @@
+{
+  "tasks": [
+    {
+      "text": "Learn HTML",
+      "remainder": true,
+      "id": 1
+    },
+    {
+      "text": "Learn CSS",
+      "remainder": true,
+      "id": 2
+    },
+    {
+      "text": "Learn Bootstrap",
+      "remainder": true,
+      "id": 3
+    },
+    {
+      "text": "Learn JavaScript",
+      "remainder": false,
+      "id": 4
+    },
+    {
+      "text": "Learn TypeScript",
+      "remainder": false,
+      "id": 5
+    },
+    {
+      "text": "learn Angular",
+      "remainder": false,
+      "id": 6
+    }
+  ],
+  "data": [
+    {
+      "text": "Learn HTML",
+      "remainder": true,
+      "id": 1
+    }
+  ]
+}
